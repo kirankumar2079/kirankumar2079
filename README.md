@@ -28,7 +28,7 @@
 <!-- 
   <a href="https://instagram.com/harsha575" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsha575" height="30" width="40" /></a> -->
   
-<a href="hackerrank.com/kiran09082001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kirankumar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kiran09082001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kirankumar" height="30" width="40" /></a>
 <a href="https://leetcode.com/kiran_kumar_207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kirankumar" height="30" width="40" /></a>
 </p>
 
