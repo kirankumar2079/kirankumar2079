@@ -61,7 +61,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kirankumar2079&count_private=true&&show_icons=true&theme=dark" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirankumar2079" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirankumar2079&langs_count=10" />
 
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=sriharsha200&theme=algolia&hide_border=true" />
 
