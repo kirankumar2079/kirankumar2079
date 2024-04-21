@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Competitive programming**
 
-- 👯 I’m currently contributing in **Infosys**
+- 🏢 I’m currently working in **Infosys**
 
 - Projects I’m proud of are [VIBE](https://github.com/kirankumar2079/Vibe-music-streaming-service) and [Indian sign language detection](https://github.com/kirankumar2079/Video-based-sign-language-recognition)
 
