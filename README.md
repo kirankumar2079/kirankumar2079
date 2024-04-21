@@ -1,23 +1,24 @@
 ![simple img](Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, i am Kiran kumar </h1>
-<h3 align="center"> Competitive Coder |  Developer</h3>
+<h3 align="center"> Developer | Competitive Coder </h3>
 <h3 align="center"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirankumar207&label=Profile%20views&color=129e00&style=plastic" alt="kirankumar207" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
-- 🔭 I’m currently working on [Indian sign language detection](https://github.com/kirankumar2079/Vibe-music-streaming-service)
+- 🔭 I’m currently working on [My DSA skills](https://github.com/kirankumar2079/competivtive-programming)
 
 - 🌱 I’m currently learning **Competitive programming**
 
-<!-- - 👯 I’m currently contributing in **DevIncept** -->
+- 👯 I’m currently contributing in **Infosys**
 
-- 👨‍💻 All of my projects are available in [my github](https://github.com/kirankumar2079?tab=repositories) 
+- Projects I’m proud of are [VIBE](https://github.com/kirankumar2079/Vibe-music-streaming-service) and [Indian sign language detection](https://github.com/kirankumar2079/Video-based-sign-language-recognition)
+
+- 👨‍💻 All of my projects are available in [my github](https://github.com/kirankumar2079?tab=repositories)
 
 - 📫 How to reach me **kiran09082001@gmail.com**
-
 
 - 💬 Ask me about **Data Structures and Algorithms | C++**
 </div>
@@ -33,7 +34,17 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  
+</p>
 <div style="display:flex; justify-content:center;">
   <img src="https://github-readme-stats.vercel.app/api?username=kirankumar2079&count_private=true&&show_icons=true&theme=dark" />
 </div>
