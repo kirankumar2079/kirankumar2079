@@ -36,6 +36,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="c sharp" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/django/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Djnago" alt="Django" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> 
