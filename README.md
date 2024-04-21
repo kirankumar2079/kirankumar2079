@@ -36,16 +36,16 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="c sharp" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.canva.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canava" width="40" height="40"/> </a>
-<a href="https://codepen.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original.svg" alt="codepen" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="c language" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="html5" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="php" width="40" height="40"/> </a> 
+<a href="https://www.canva.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canava" title="Canva" width="40" height="40"/> </a>
+<a href="https://codepen.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original.svg" title="Codepen" alt="codepen" width="40" height="40"/> </a>
 </p>
 <div style="display:flex; justify-content:center;">
   <img src="https://github-readme-stats.vercel.app/api?username=kirankumar2079&count_private=true&&show_icons=true&theme=dark" />
