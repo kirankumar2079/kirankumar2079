@@ -35,7 +35,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-
+<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="c sharp" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -45,7 +45,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.canva.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canava" width="40" height="40"/> </a>
-<a href="https://codepen.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original.svg" alt="canava" width="40" height="40"/> </a>
+<a href="https://codepen.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original.svg" alt="codepen" width="40" height="40"/> </a>
 </p>
 <div style="display:flex; justify-content:center;">
   <img src="https://github-readme-stats.vercel.app/api?username=kirankumar2079&count_private=true&&show_icons=true&theme=dark" />
