@@ -49,6 +49,7 @@
 <a href="https://www.canva.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canava" title="Canva" width="40" height="40"/> </a>
 <a href="https://codepen.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original.svg" title="Codepen" alt="codepen" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40"/> </a>
+<a href="https://www.github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GitHub" alt="Git" width="40" height="40"/> </a>
 </p>
 <div style="display:flex; justify-content:center;">
   <img src="https://github-readme-stats.vercel.app/api?username=kirankumar2079&count_private=true&&show_icons=true&theme=dark" />
